@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<records>
+<record>
+<bibcode>[bibcode]</bibcode>
+<title>[title]</title>
+<author>[author01]</author>
+<author>[author01]</author>
+<affiliation>[affiliation]</affiliation>
+<journal>[journal]</journal>
+<volume>[volume]</volume>
+<pubdate>[publication date]</pubdate>
+<page>[page]</page>
+<lastpage>[last page]</lastpage>
+<keywords>
+<keyword>[keyword01]</keyword>
+<keyword>[keyword02]</keyword>
+</keywords>
+<origin>[origin]</origin>
+<copyright>(c) [copyright]</copyright>
+<link type="ABSTRACT">
+ <name>Abstract</name>
+ <url>[abstract URL]</url>
+</link>
+<link type="EJOURNAL">
+ <name>Ejournal</name>
+ <url>[Ejournal URL]</url>
+</link>
+<link type="REFERENCES">
+ <name>References in the Article</name>
+ <url>[References URL]</url>
+ <count>[References count]</count>
+</link>
+<link type="CITATIONS">
+ <name>Citations to the Article</name>
+ <url>[Citations URL]</url>
+ <count>[Citations count]</count>
+</link>
+<link type="REFCIT">
+ <name>Refereed Citations to the Article</name>
+ <url>[Refereed URL]</url>
+</link>
+<link type="AR">
+ <name>Also-Read Articles</name>
+ <url>[Also-read URL]</url>
+</link>
+<link type="OPENURL">
+ <name>Open URL</name>
+ <url>[Open URL URL]</url>
+</link>
+<url>[Adsabs URL]</url>
+<score>[Score]</score>
+<citations>[Citations]</citations>
+<abstract>[Abstract text]</abstract>
+<DOI>[DOI]</DOI>
+</record>
+</records>

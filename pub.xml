@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<papers title="Papers">
+	<mainpub>
+		<h1>Papers</h1>
+	</mainpub>
+	<papertype>
+		<publist i="ul_item1"> 		
+			  <!--<checkbx i="item1_0" n="c_position" o="checkchecks()" t="checkbox">&#xa0;Entry #</checkbx>-->
+			  <checkbx i="item1_1" c="checked" n="c_title" o="checkchecks()" t="checkbox">&#xa0;Title</checkbx>  
+			  <checkbx i="item1_2" c="checked" n="c_author" o="checkchecks()" t="checkbox">&#xa0;Authors</checkbx> 
+			  <checkbx i="item1_3" n="c_affiliation" o="checkchecks()" t="checkbox">&#xa0;Affiliation</checkbx>
+			  <checkbx i="item1_4" c="checked" n="c_journal" o="checkchecks()" t="checkbox">&#xa0;Journal</checkbx>
+			  <checkbx i="item1_5" n="c_pubdate" o="checkchecks()" t="checkbox">&#xa0;Publication Date</checkbx>
+			  <checkbx i="item1_6" n="c_origin" o="checkchecks()" t="checkbox">&#xa0;Origin</checkbx>
+			  <checkbx i="item1_7" n="c_keywords" o="checkchecks()" t="checkbox">&#xa0;Keywords</checkbx>
+			  <checkbx i="item1_7" n="c_abscopy" o="checkchecks()" t="checkbox">&#xa0;Abstract Copyright</checkbx>
+			  <checkbx i="item1_9" n="c_doi" o="checkchecks()" t="checkbox">&#xa0;DOI</checkbx>
+			  <checkbx i="item1_10" n="c_bibcode" o="checkchecks()" t="checkbox">&#xa0;Bibliographic Code</checkbx>
+			  <checkbx i="item1_11" n="c_abstract" o="checkchecks()" t="checkbox">&#xa0;Abstract</checkbx>
+		</publist>
+		<pubbutton>
+				  <listitem c="button1" o="checkall()" t="button" v="Check All"></listitem> 
+				  <listitem c="button2" o="uncheckall()" t="button" v="Uncheck All"></listitem>
+			 </pubbutton>
+	</papertype>
+</papers>	
